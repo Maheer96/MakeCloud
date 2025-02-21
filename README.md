@@ -25,6 +25,10 @@ Visit **[makecloud.work](https://makecloud.work)** to explore MakeCloud in actio
 
 ---
 
+## ⚙️ Workflow
+![Beige and Brown MInimalist Psychology Thesis Defense Presentation](https://github.com/user-attachments/assets/4476f4d8-3923-48a9-9785-c1824cc89548)
+
+---
 ## 🎉 UofTHacks 12 Submission
 
 MakeCloud was proudly submitted to **UoftHacks 12**, showcasing its ability to revolutionize the way developers deploy and manage their online resources.
